@@ -1,9 +1,11 @@
 # kubecluster-playbook
 
 mkdir ~/kube-cluster
+
 cd ~/kube-cluster
 
 Create a file named ~/kube-cluster/hosts using vi or your favorite text editor:
+
 vi ~/kube-cluster/hosts
 
 ~/kube-cluster/hosts
